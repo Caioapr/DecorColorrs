@@ -1,0 +1,1 @@
+class Superficie (var rustic: Boolean)
